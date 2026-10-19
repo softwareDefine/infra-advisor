@@ -1,0 +1,9 @@
+{
+  "mcpServers": {
+    "infra-advisor": {
+      "command": "python",
+      "args": ["-m", "infra_advisor.server"],
+      "cwd": "C:/Users/satur/orca/workspaces/mcp-infra-advisor"
+    }
+  }
+}
